@@ -19,6 +19,10 @@
     "superagent": "^3.8.2",
     "superagent-jsonapify": "^1.4.2",
     "through2": "^2.0.3",
-    "ytdl-core": "^0.20.4"
+    "ytdl-core": "^0.20.4",
+    "ffmpeg": "0.0.4",
+    "opusscript": "0.0.6",
+    "simple-youtube-api": "^5.0.2",
+    "get-youtube-id": "^1.0.0"
   }
 }
